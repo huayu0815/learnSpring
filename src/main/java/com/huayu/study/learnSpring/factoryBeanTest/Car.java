@@ -1,4 +1,4 @@
-package com.huayu.study.learnSpring.common.bo.factoryBeanTest;
+package com.huayu.study.learnSpring.factoryBeanTest;
 
 /**
  * Created by zhaohuayu on 17/4/12.

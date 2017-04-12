@@ -1,6 +1,5 @@
-package com.huayu.study.learnSpring.common.bo.factoryBeanTest;
+package com.huayu.study.learnSpring.factoryBeanTest;
 
-import org.omg.CORBA.DoubleHolder;
 import org.springframework.beans.factory.FactoryBean;
 
 /**

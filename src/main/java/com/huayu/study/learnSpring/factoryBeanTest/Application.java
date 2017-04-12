@@ -1,4 +1,4 @@
-package com.huayu.study.learnSpring.common.bo.factoryBeanTest;
+package com.huayu.study.learnSpring.factoryBeanTest;
 
 import com.alibaba.fastjson.JSON;
 import org.springframework.beans.factory.BeanFactory;
