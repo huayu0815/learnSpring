@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="testA" class="com.huayu.study.learnSpring.circleReference.TestA">
+    <bean id="testA" class="com.huayu.study.learnSpring.circleReference.TestA" autowire="byType">
         <property name="testB" ref="testB"/>
     </bean>
     <bean id="testB" class="com.huayu.study.learnSpring.circleReference.TestB">

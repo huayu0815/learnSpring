@@ -21,4 +21,8 @@ public class User {
     public void setEmail(String email) {
         this.email = email;
     }
+
+    public void initMethod() {
+        System.out.println("init method");
+    }
 }
